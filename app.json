@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "study-app2",
-    "slug": "study-app2",
+    "name": "Todo-app1",
+    "slug": "todo-app1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "studyapp2",
+    "scheme": "todoapp1",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "android": {
-      "package": "com.mussa.Todoapp1",
+      "package": "com.mussa.Todoapp",
       "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
@@ -22,7 +22,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.mussa.Todoapp1",
+      "bundleIdentifier": "com.mussa.Todoapp",
       "buildNumber": "1"
     },
     "web": {
