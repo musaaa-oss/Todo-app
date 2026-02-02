@@ -9,7 +9,7 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "android": {
-      "package": "com.mussa.Todoapp",
+      "package": "com.mussa.todoapp",
       "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
@@ -22,7 +22,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.mussa.Todoapp",
+      "bundleIdentifier": "com.mussa.todoapp",
       "buildNumber": "1"
     },
     "web": {
@@ -47,6 +47,12 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "5cb56bad-5706-4aa6-9fae-8062ce782c2c"
+      }
     }
   }
 }
